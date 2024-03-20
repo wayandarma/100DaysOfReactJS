@@ -1,0 +1,14 @@
+{
+  "name": "100dayofreactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd FrontEnd && npm run dev",
+    "tailwind": "cd FrontEnd && npx tailwindcss -i ./src/assets/styles/tailwindcss.css -o ./src/app.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
