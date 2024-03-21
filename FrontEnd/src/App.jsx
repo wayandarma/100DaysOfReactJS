@@ -1,5 +1,5 @@
 // pages
-import Day10 from "./Days/Day10-Day20/pages/Day10";
+import Day10 from "./Days/Day_10--Learn-Redux/pages/Day10";
 import Home from "./pages/Home";
 
 // layout

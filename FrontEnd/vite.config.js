@@ -7,6 +7,6 @@ export default defineConfig({
   server: {
     port: 4000,
     // set the IP
-    host: "192.168.48.113",
+    host: "192.168.83.113",
   },
 });
